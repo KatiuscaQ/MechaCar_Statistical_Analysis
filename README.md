@@ -153,6 +153,8 @@ Following a boxplot to show more visually the differences between the manufactur
 
 ![](https://github.com/KatiuscaQ/MechaCar_Statistical_Analysis/blob/main/Resources/mfgLot_vs_PSI.PNG) 
 
+*Observation: there are definitely more outliers in Lot 3 than the other two lots*
+
 ## Study Design: MechaCar vs Competition
 
 How will MechaCar compared against other car manufacturers? 
